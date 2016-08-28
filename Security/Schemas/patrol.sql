@@ -1,0 +1,3 @@
+CREATE SCHEMA [patrol]
+AUTHORIZATION [patrol]
+GO
